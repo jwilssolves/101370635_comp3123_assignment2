@@ -1,0 +1,1 @@
+export const API_URI = "http://20.51.224.8:3050/api/v1"; //users/register
